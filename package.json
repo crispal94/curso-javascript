@@ -1,0 +1,22 @@
+{
+  "name": "curso-javascript",
+  "version": "1.0.0",
+  "description": "Curso de Javascript basico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Crispal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "jquery": "^3.4.0",
+    "moment": "^2.24.0"
+  }
+}
